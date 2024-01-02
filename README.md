@@ -101,7 +101,7 @@ The Minimal theme is intended to make it quick and easy for GitHub Pages users t
 
 Interested in contributing to Minimal? We'd love your help. Minimal is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
 
-### Previewing the theme locally by Github
+### Previewing the theme locally by Github is an good option
 
 If you'd like to preview the theme locally (for example, in the process of proposing a change):
 
